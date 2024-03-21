@@ -5,7 +5,7 @@ const Heading = ({ heading }) => <h2>{heading}</h2>;
 const Paragraf = ({ text, votes }) => (
   <div>
     <p>{text}</p>
-    <p>has {votes} votes </p>
+    <p>has {votes} votes fuck you </p>
   </div>
 );
 
